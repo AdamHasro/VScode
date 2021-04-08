@@ -23,7 +23,7 @@
 <body>
     <h1>PTSS</h1>
 
-    <p>18DDT19F1001,MUHAMMAD ADAM BIN HASRO DDT4B</P>
+    <h1>18DDT19F1001,MUHAMMAD ADAM BIN HASRO DDT4B</h1>
 
      <table>
     <form>
