@@ -19,6 +19,34 @@
 
     <p>18DDT19F1001,MUHAMMAD ADAM BIN HASRO DDT4B</P>
 
+     <table>
+    <form>
+        <tr> 
+        <td>
+        <label for="name"> Username:</label> 
+        </td>
+    
+        <td>
+        <input type="text" id="name" name="name" required>
+        </td> </tr>
 
+    
+        <tr> 
+        <td>
+        <label for="name"> Password:</label> 
+        </td>
+        
+        <td>
+        <input type="password" id="name" name="name" required>
+        </td> </tr>
+
+
+        <tr>
+        <td>
+        <input type="Login"> </td></tr> 
+
+     </form>
+     </table>
+     
 </body>
 </html>
