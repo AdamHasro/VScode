@@ -11,14 +11,11 @@
        *{
            font-family: Arial;
        }
-
     table{
-
     background-color:blue;
     margin-left: 30%;
     margin-right: 30%;
     border: white;
-
      }
     </style>
 </head>
