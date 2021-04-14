@@ -12,6 +12,7 @@
            font-family: Arial;
        }
     table{
+        border=0;
     background-color:blue;
     margin-left: 30%;
     margin-right: 30%;
