@@ -42,7 +42,7 @@
         </td> </tr>
         <tr>
         <td>
-        <input type="Login"> </td></tr> 
+        <input type="Submit" Value="Login"> </td></tr> 
      </form>
      </table>
 
